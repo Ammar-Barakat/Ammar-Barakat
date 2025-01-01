@@ -4,7 +4,7 @@
 
 - 🔭 Passionate about backend world and trying to master it.
 - 🌱 I’m currently learning everything.
-- 🥅 2024 Goals: finish the full-stack learning journey.
+- 🥅 2025 Goals: finish the full-stack learning journey.
 - ⚡ Fun fact: I'm a movie nerd, gamer and love to read.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ammar-Barakat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
