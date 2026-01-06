@@ -4,7 +4,7 @@
 
 - 🔭 Passionate about backend world and trying to master it.
 - 🌱 I’m currently learning everything.
-- 🥅 2025 Goals: finish the full-stack learning journey.
+- 🥅 2026 Goals: finish the full-stack learning journey.
 - ⚡ Fun fact: I'm a movie nerd, gamer and love to read.
 
 ### Connect with me:
