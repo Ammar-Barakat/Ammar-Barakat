@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Hi, I'm Ammar 
 
-**`Software Developer(.NET Backend Developer)`**
+**`Backend Developer`**
 
 - 🔭 Passionate about backend world and trying to master it.
 - 🌱 I’m currently learning everything.
